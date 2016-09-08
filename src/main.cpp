@@ -49,7 +49,7 @@ glm::vec3 scale = glm::vec3(1.0f, 1.0f, 1.0f);
 glm::vec3 scaleOrigin = glm::vec3(0.0f, 0.216f, 0.0f);
 
 glm::vec3 linearVelocity = glm::vec3(0.1f, 0.0f, 0.0f);
-glm::vec4 angularVelocity = glm::vec4(0.0f, 0.0f, 1.0f, 180.0f);
+glm::vec4 angularVelocity = glm::vec4(0.0f, 0.0f, 1.0f, 5.0f);
 glm::vec3 scaleRate = glm::vec3(0.1f, 0.1f, 0.1f);
 
 GLfloat vertices[] = {
